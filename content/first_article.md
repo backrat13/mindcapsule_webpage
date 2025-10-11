@@ -12,7 +12,7 @@ Mind Capsule is an AI-powered personal companion designed to enhance daily life 
 Mind Capsule is dedicated to developing and deploying AI companion technology that prioritizes user privacy and emotional well-being.
 Our initial product focuses on a "Companion Version" that establishes a foundation for future expansion into specialized memory support and medical applications.
 We are committed to creating an intuitive and accessible user experience, ensuring that Mind Capsule can be easily integrated into daily life.
-We will focus on a subscription based business model, where users pay a monthly fee for the device and support.
+We will focus on a subscription-based business model, where users pay a monthly fee for the device and support.
 
 ## Products and Services
 
