@@ -145,3 +145,4 @@ In order to keep our project up-to-date with dependencies we use a tool called [
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+# mindcapsule.github
